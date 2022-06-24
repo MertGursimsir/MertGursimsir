@@ -1,4 +1,4 @@
-### Hi earthling! I'm Mert 👋
+# Hi earthling! I'm Mert 👋
 
 ## I'm a Developer, Learner, and Coder.
 - 🔭 I am trying to learn and discover as much as possible while I exist in this world
