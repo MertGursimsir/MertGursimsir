@@ -1,6 +1,6 @@
-![tumblr_3aef13b96a08c81b12e521b0205eb673_7767ab57_500](https://user-images.githubusercontent.com/66382514/202263159-2a8e4dd4-25d1-47ea-96b2-db971aaa7372.gif)
-
 # Hi earthling! I'm Mert 👋
+
+![Pj4t](https://user-images.githubusercontent.com/66382514/202264348-6547067a-842a-4ae1-99d0-13ab0f1d01cd.gif)
 
 ## I'm a Developer, Learner, and Coder.
 - 🔭 I am trying to learn and discover as much as possible while I exist in this world
