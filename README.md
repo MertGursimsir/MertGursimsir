@@ -13,5 +13,4 @@
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/mertgursimsir#gh-dark-mode-only)
 &nbsp;&nbsp;
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=MertGursimsir&theme=dark&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MertGursimsir&layout=compact&theme=dark&exclude_repo=spotify-stats-app,stok-program)
