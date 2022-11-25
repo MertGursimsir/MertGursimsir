@@ -15,7 +15,7 @@
 
 ### Skills:
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,firebase,github,git,html,css,java,kotlin,linux,latex,py,regex)](https://skillicons.dev)
-[![My Skills](./img/assembly.png)]
+[![My Skills](./img/assembly.png = 250x250)]
 [![My Skills](./img/verilog.png)]
 [![My Skills](./img/lisp.png)]
 
