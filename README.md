@@ -13,4 +13,7 @@
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/mertgursimsir#gh-dark-mode-only)
 &nbsp;&nbsp;
 
+### Skills:
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,firebase,github,git,html,css,java,kotlin,linux,latex,py,regex)](https://skillicons.dev)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MertGursimsir&layout=compact&theme=dark&exclude_repo=spotify-stats-app,stok-program)
