@@ -2,7 +2,7 @@
 
 <!-- ![Pj4t](https://user-images.githubusercontent.com/66382514/202264348-6547067a-842a-4ae1-99d0-13ab0f1d01cd.gif) -->
 
-## I'm a Developer, Learner, and Coder.
+## I'm a Developer, Learner, and Coder. 🎸🤘
 - 🔭 I am trying to learn and discover as much as possible while I exist in this world
 - ⚡ I am a Computer Science Engineering student
 - 🥅 2023 Goals: Learn more about security
@@ -14,6 +14,6 @@
 &nbsp;&nbsp;
 
 ### Skills:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,firebase,github,git,html,css,java,kotlin,linux,latex,py,regex)](https://skillicons.dev)
+<!-- [![My Skills](https://skillicons.dev/icons?i=c,cpp,firebase,github,git,html,css,java,kotlin,linux,latex,py,regex)](https://skillicons.dev) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MertGursimsir&layout=compact&theme=dark&exclude_repo=spotify-stats-app,stok-program)
